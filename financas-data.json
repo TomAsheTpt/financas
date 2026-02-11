@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T17:06:34.767649",
+  "generated_at": "2026-02-11T17:19:06.577130",
   "monthly_balances": [
     {
       "id": 1,
@@ -21697,16 +21697,16 @@
       "id": 49,
       "year": 2025,
       "month": 12,
-      "prio_income": 250000.0,
+      "prio_income": 250023.24,
       "pf_income": 0.0,
-      "investment_income": 0.0,
-      "association_income": 4977.08,
+      "investment_income": 1562.96,
+      "association_income": 0.0,
       "refunds": 0.0,
-      "total_income": 254977.08,
-      "total_expenses": 104081.58,
-      "reimbursements": 142039.58,
+      "total_income": 251586.2,
+      "total_expenses": 378006.78,
+      "reimbursements": 170950.0,
       "opening_balance": 126420.58,
-      "closing_balance": 135276.5
+      "closing_balance": 0.0
     }
   ],
   "rouanet_budget_monthly": [
