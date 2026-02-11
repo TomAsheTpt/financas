@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T15:44:33.838248",
+  "generated_at": "2026-02-11T17:06:34.767649",
   "monthly_balances": [
     {
       "id": 1,
@@ -189,7 +189,7 @@
       "cc_opening": 100.0,
       "paypal_opening": -1163.02,
       "caixinha_opening": -1163.02,
-      "total_opening": 2287.87,
+      "total_opening": 184165.28,
       "cdb_closing": 137508.24,
       "cc_closing": 235.62,
       "paypal_closing": 587.59,
@@ -229,7 +229,7 @@
       "cc_opening": 49.8,
       "paypal_opening": 0.0,
       "caixinha_opening": -1756.93,
-      "total_opening": 33792.87,
+      "total_opening": 39534.32,
       "cdb_closing": 21000.0,
       "cc_closing": 212509.82,
       "paypal_closing": 51.57,
