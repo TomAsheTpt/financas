@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-11T17:19:06.577130",
+  "generated_at": "2026-02-11T19:43:16.292502",
   "monthly_balances": [
     {
       "id": 1,
@@ -17,9 +17,9 @@
       "total_closing": 70545.51,
       "income": 10840.34,
       "expenses": 75045.58,
-      "net_flow": -64205.24,
-      "source_file": "Fluxo de Caixa.csv",
-      "imported_at": "2026-01-14 02:22:05"
+      "net_flow": -64205.240000000005,
+      "source_file": "Planilha de Execução Associação 2025.xlsx - Fluxo de Caixa.csv",
+      "imported_at": "2026-02-11 22:42:43"
     },
     {
       "id": 2,
@@ -38,8 +38,8 @@
       "income": 1362.46,
       "expenses": 11695.91,
       "net_flow": -10333.45,
-      "source_file": "Fluxo de Caixa.csv",
-      "imported_at": "2026-01-14 02:22:05"
+      "source_file": "Planilha de Execução Associação 2025.xlsx - Fluxo de Caixa.csv",
+      "imported_at": "2026-02-11 22:42:43"
     },
     {
       "id": 3,
@@ -58,8 +58,8 @@
       "income": 92423.9,
       "expenses": 7779.22,
       "net_flow": 84644.68,
-      "source_file": "Fluxo de Caixa.csv",
-      "imported_at": "2026-01-14 02:22:05"
+      "source_file": "Planilha de Execução Associação 2025.xlsx - Fluxo de Caixa.csv",
+      "imported_at": "2026-02-11 22:42:43"
     },
     {
       "id": 4,
@@ -77,9 +77,9 @@
       "total_closing": 139995.91,
       "income": 9936.96,
       "expenses": 14806.58,
-      "net_flow": -4869.62,
-      "source_file": "Fluxo de Caixa.csv",
-      "imported_at": "2026-01-14 02:22:05"
+      "net_flow": -4869.620000000001,
+      "source_file": "Planilha de Execução Associação 2025.xlsx - Fluxo de Caixa.csv",
+      "imported_at": "2026-02-11 22:42:43"
     },
     {
       "id": 5,
@@ -97,9 +97,9 @@
       "total_closing": 142249.27,
       "income": 10534.19,
       "expenses": 8273.65,
-      "net_flow": 2260.54,
-      "source_file": "Fluxo de Caixa.csv",
-      "imported_at": "2026-01-14 02:22:05"
+      "net_flow": 2260.540000000001,
+      "source_file": "Planilha de Execução Associação 2025.xlsx - Fluxo de Caixa.csv",
+      "imported_at": "2026-02-11 22:42:43"
     },
     {
       "id": 6,
@@ -113,13 +113,13 @@
       "cdb_closing": 142398.59,
       "cc_closing": 10802.88,
       "paypal_closing": 0.0,
-      "caixinha_closing": -4688.32,
-      "total_closing": 148513.15,
+      "caixinha_closing": -4688.33,
+      "total_closing": 148513.14,
       "income": 17685.73,
       "expenses": 11422.2,
-      "net_flow": 6263.54,
-      "source_file": "Fluxo de Caixa.csv",
-      "imported_at": "2026-01-14 02:22:05"
+      "net_flow": 6263.529999999999,
+      "source_file": "Planilha de Execução Associação 2025.xlsx - Fluxo de Caixa.csv",
+      "imported_at": "2026-02-11 22:42:43"
     },
     {
       "id": 7,
@@ -128,18 +128,18 @@
       "cdb_opening": 142398.59,
       "cc_opening": 10802.88,
       "paypal_opening": 0.0,
-      "caixinha_opening": -4688.32,
-      "total_opening": 148513.15,
+      "caixinha_opening": -4688.33,
+      "total_opening": 148513.14,
       "cdb_closing": 165104.12,
       "cc_closing": 188.08,
       "paypal_closing": 0.0,
-      "caixinha_closing": -2487.12,
-      "total_closing": 162805.08,
+      "caixinha_closing": -2487.13,
+      "total_closing": 162805.07,
       "income": 19714.73,
       "expenses": 5346.13,
-      "net_flow": 14368.6,
-      "source_file": "Fluxo de Caixa.csv",
-      "imported_at": "2026-01-14 02:22:05"
+      "net_flow": 14368.599999999999,
+      "source_file": "Planilha de Execução Associação 2025.xlsx - Fluxo de Caixa.csv",
+      "imported_at": "2026-02-11 22:42:43"
     },
     {
       "id": 8,
@@ -148,8 +148,8 @@
       "cdb_opening": 165104.12,
       "cc_opening": 188.08,
       "paypal_opening": 0.0,
-      "caixinha_opening": -2487.12,
-      "total_opening": 162805.08,
+      "caixinha_opening": -2487.13,
+      "total_opening": 162805.07,
       "cdb_closing": 159487.35,
       "cc_closing": 15353.6,
       "paypal_closing": 189.35,
@@ -157,9 +157,9 @@
       "total_closing": 172764.39,
       "income": 21756.03,
       "expenses": 11801.7,
-      "net_flow": 9954.33,
-      "source_file": "Fluxo de Caixa.csv",
-      "imported_at": "2026-01-14 02:22:05"
+      "net_flow": 9954.329999999998,
+      "source_file": "Planilha de Execução Associação 2025.xlsx - Fluxo de Caixa.csv",
+      "imported_at": "2026-02-11 22:42:43"
     },
     {
       "id": 9,
@@ -178,28 +178,28 @@
       "income": 20102.59,
       "expenses": 8537.08,
       "net_flow": 11565.51,
-      "source_file": "Fluxo de Caixa.csv",
-      "imported_at": "2026-01-14 02:22:05"
+      "source_file": "Planilha de Execução Associação 2025.xlsx - Fluxo de Caixa.csv",
+      "imported_at": "2026-02-11 22:42:43"
     },
     {
       "id": 10,
       "year": 2025,
       "month": 10,
-      "cdb_opening": 4513.91,
-      "cc_opening": 100.0,
-      "paypal_opening": -1163.02,
+      "cdb_opening": 180714.39,
+      "cc_opening": 4513.91,
+      "paypal_opening": 100.0,
       "caixinha_opening": -1163.02,
       "total_opening": 184165.28,
       "cdb_closing": 137508.24,
       "cc_closing": 235.62,
       "paypal_closing": 587.59,
       "caixinha_closing": -2168.01,
-      "total_closing": 136163.44,
+      "total_closing": 135340.23,
       "income": 20031.62,
       "expenses": 68638.38,
-      "net_flow": -48606.76,
-      "source_file": "Fluxo de Caixa.csv",
-      "imported_at": "2026-01-14 02:22:05"
+      "net_flow": -48606.76000000001,
+      "source_file": "Planilha de Execução Associação 2025.xlsx - Fluxo de Caixa.csv",
+      "imported_at": "2026-02-11 22:42:43"
     },
     {
       "id": 11,
@@ -209,7 +209,7 @@
       "cc_opening": 235.62,
       "paypal_opening": 587.59,
       "caixinha_opening": -2168.01,
-      "total_opening": 136163.44,
+      "total_opening": 135340.23,
       "cdb_closing": 41241.45,
       "cc_closing": 49.8,
       "paypal_closing": 0.0,
@@ -218,28 +218,28 @@
       "income": 28518.3,
       "expenses": 123517.21,
       "net_flow": -94998.91,
-      "source_file": "Fluxo de Caixa.csv",
-      "imported_at": "2026-01-14 02:22:05"
+      "source_file": "Planilha de Execução Associação 2025.xlsx - Fluxo de Caixa.csv",
+      "imported_at": "2026-02-11 22:42:43"
     },
     {
       "id": 12,
       "year": 2025,
       "month": 12,
-      "cdb_opening": 35500.0,
+      "cdb_opening": 41241.45,
       "cc_opening": 49.8,
       "paypal_opening": 0.0,
       "caixinha_opening": -1756.93,
       "total_opening": 39534.32,
       "cdb_closing": 21000.0,
       "cc_closing": 212509.82,
-      "paypal_closing": 51.57,
-      "caixinha_closing": -1722.23,
+      "paypal_closing": 0.0,
+      "caixinha_closing": -1670.66,
       "total_closing": 231839.16,
-      "income": 62255.76,
-      "expenses": 24268.06,
-      "net_flow": null,
-      "source_file": null,
-      "imported_at": "2026-02-09 18:01:15"
+      "income": 181053.58,
+      "expenses": 9108.9,
+      "net_flow": 171944.68,
+      "source_file": "Planilha de Execução Associação 2025.xlsx - Fluxo de Caixa.csv",
+      "imported_at": "2026-02-11 22:42:43"
     },
     {
       "id": 13,
@@ -247,8 +247,8 @@
       "month": 1,
       "cdb_opening": 21000.0,
       "cc_opening": 212509.82,
-      "paypal_opening": 51.57,
-      "caixinha_opening": -1722.23,
+      "paypal_opening": 0.0,
+      "caixinha_opening": -1670.66,
       "total_opening": 231839.16,
       "cdb_closing": 163000.0,
       "cc_closing": 482.51,
