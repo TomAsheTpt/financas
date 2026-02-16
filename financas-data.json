@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-12T15:32:52.763936",
+  "generated_at": "2026-02-16T15:06:26.452708",
   "monthly_balances": [
     {
       "id": 1,
@@ -25179,16 +25179,6 @@
     {
       "year": 2026,
       "month": 2,
-      "category": "PRIO",
-      "is_income": 1,
-      "forecast_amount": 150000.0,
-      "scenario": "optimistic",
-      "account": "rouanet",
-      "notes": "PRIO disbursement (optimistic) - 1000k total"
-    },
-    {
-      "year": 2026,
-      "month": 2,
       "category": "Prestação de Serviços",
       "is_income": 1,
       "forecast_amount": 5250.0,
@@ -25971,10 +25961,30 @@
       "month": 3,
       "category": "PRIO",
       "is_income": 1,
-      "forecast_amount": 120000.0,
+      "forecast_amount": 250000.0,
       "scenario": "base",
       "account": "rouanet",
-      "notes": "PRIO disbursement (base) - 800k total"
+      "notes": "Confirmed: R$1M in 4 equal quarterly installments"
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "category": "PRIO",
+      "is_income": 1,
+      "forecast_amount": 250000.0,
+      "scenario": "conservative",
+      "account": "rouanet",
+      "notes": "Confirmed: R$1M in 4 equal quarterly installments"
+    },
+    {
+      "year": 2026,
+      "month": 3,
+      "category": "PRIO",
+      "is_income": 1,
+      "forecast_amount": 250000.0,
+      "scenario": "optimistic",
+      "account": "rouanet",
+      "notes": "Confirmed: R$1M in 4 equal quarterly installments"
     },
     {
       "year": 2026,
@@ -27599,16 +27609,6 @@
     {
       "year": 2026,
       "month": 5,
-      "category": "PRIO",
-      "is_income": 1,
-      "forecast_amount": 250000.0,
-      "scenario": "optimistic",
-      "account": "rouanet",
-      "notes": "PRIO disbursement (optimistic) - 1000k total"
-    },
-    {
-      "year": 2026,
-      "month": 5,
       "category": "Prestação de Serviços",
       "is_income": 1,
       "forecast_amount": 5250.0,
@@ -28391,20 +28391,30 @@
       "month": 6,
       "category": "PRIO",
       "is_income": 1,
-      "forecast_amount": 280000.0,
+      "forecast_amount": 250000.0,
       "scenario": "base",
       "account": "rouanet",
-      "notes": "PRIO disbursement (base) - 800k total"
+      "notes": "Confirmed: R$1M in 4 equal quarterly installments"
     },
     {
       "year": 2026,
       "month": 6,
       "category": "PRIO",
       "is_income": 1,
-      "forecast_amount": 200000.0,
+      "forecast_amount": 250000.0,
       "scenario": "conservative",
       "account": "rouanet",
-      "notes": "PRIO disbursement (conservative) - 600k total"
+      "notes": "Confirmed: R$1M in 4 equal quarterly installments"
+    },
+    {
+      "year": 2026,
+      "month": 6,
+      "category": "PRIO",
+      "is_income": 1,
+      "forecast_amount": 250000.0,
+      "scenario": "optimistic",
+      "account": "rouanet",
+      "notes": "Confirmed: R$1M in 4 equal quarterly installments"
     },
     {
       "year": 2026,
@@ -30089,16 +30099,6 @@
     {
       "year": 2026,
       "month": 8,
-      "category": "PRIO",
-      "is_income": 1,
-      "forecast_amount": 200000.0,
-      "scenario": "optimistic",
-      "account": "rouanet",
-      "notes": "PRIO disbursement (optimistic) - 1000k total"
-    },
-    {
-      "year": 2026,
-      "month": 8,
       "category": "Prestação de Serviços",
       "is_income": 1,
       "forecast_amount": 5250.0,
@@ -30881,20 +30881,30 @@
       "month": 9,
       "category": "PRIO",
       "is_income": 1,
-      "forecast_amount": 160000.0,
+      "forecast_amount": 250000.0,
       "scenario": "base",
       "account": "rouanet",
-      "notes": "PRIO disbursement (base) - 800k total"
+      "notes": "Confirmed: R$1M in 4 equal quarterly installments"
     },
     {
       "year": 2026,
       "month": 9,
       "category": "PRIO",
       "is_income": 1,
-      "forecast_amount": 150000.0,
+      "forecast_amount": 250000.0,
       "scenario": "conservative",
       "account": "rouanet",
-      "notes": "PRIO disbursement (conservative) - 600k total"
+      "notes": "Confirmed: R$1M in 4 equal quarterly installments"
+    },
+    {
+      "year": 2026,
+      "month": 9,
+      "category": "PRIO",
+      "is_income": 1,
+      "forecast_amount": 250000.0,
+      "scenario": "optimistic",
+      "account": "rouanet",
+      "notes": "Confirmed: R$1M in 4 equal quarterly installments"
     },
     {
       "year": 2026,
@@ -32549,16 +32559,6 @@
     {
       "year": 2026,
       "month": 11,
-      "category": "PRIO",
-      "is_income": 1,
-      "forecast_amount": 200000.0,
-      "scenario": "optimistic",
-      "account": "rouanet",
-      "notes": "PRIO disbursement (optimistic) - 1000k total"
-    },
-    {
-      "year": 2026,
-      "month": 11,
       "category": "Prestação de Serviços",
       "is_income": 1,
       "forecast_amount": 5250.0,
@@ -33371,10 +33371,10 @@
       "month": 12,
       "category": "PRIO",
       "is_income": 1,
-      "forecast_amount": 240000.0,
+      "forecast_amount": 250000.0,
       "scenario": "base",
       "account": "rouanet",
-      "notes": "PRIO disbursement (base) - 800k total"
+      "notes": "Confirmed: R$1M in 4 equal quarterly installments"
     },
     {
       "year": 2026,
@@ -33384,17 +33384,17 @@
       "forecast_amount": 250000.0,
       "scenario": "conservative",
       "account": "rouanet",
-      "notes": "PRIO disbursement (conservative) - 600k total"
+      "notes": "Confirmed: R$1M in 4 equal quarterly installments"
     },
     {
       "year": 2026,
       "month": 12,
       "category": "PRIO",
       "is_income": 1,
-      "forecast_amount": 200000.0,
+      "forecast_amount": 250000.0,
       "scenario": "optimistic",
       "account": "rouanet",
-      "notes": "PRIO disbursement (optimistic) - 1000k total"
+      "notes": "Confirmed: R$1M in 4 equal quarterly installments"
     },
     {
       "year": 2026,
@@ -33761,7 +33761,7 @@
       "month": 2,
       "scenario": "optimistic",
       "account": "rouanet",
-      "forecast_income": 151500.0,
+      "forecast_income": 1500.0,
       "forecast_expenses": 81823.0
     },
     {
@@ -33777,7 +33777,7 @@
       "month": 3,
       "scenario": "base",
       "account": "rouanet",
-      "forecast_income": 121500.0,
+      "forecast_income": 251500.0,
       "forecast_expenses": 89918.0
     },
     {
@@ -33793,7 +33793,7 @@
       "month": 3,
       "scenario": "conservative",
       "account": "rouanet",
-      "forecast_income": 1500.0,
+      "forecast_income": 251500.0,
       "forecast_expenses": 89918.0
     },
     {
@@ -33809,7 +33809,7 @@
       "month": 3,
       "scenario": "optimistic",
       "account": "rouanet",
-      "forecast_income": 1500.0,
+      "forecast_income": 251500.0,
       "forecast_expenses": 89918.0
     },
     {
@@ -33905,7 +33905,7 @@
       "month": 5,
       "scenario": "optimistic",
       "account": "rouanet",
-      "forecast_income": 251500.0,
+      "forecast_income": 1500.0,
       "forecast_expenses": 86413.0
     },
     {
@@ -33921,7 +33921,7 @@
       "month": 6,
       "scenario": "base",
       "account": "rouanet",
-      "forecast_income": 281500.0,
+      "forecast_income": 251500.0,
       "forecast_expenses": 85976.0
     },
     {
@@ -33937,7 +33937,7 @@
       "month": 6,
       "scenario": "conservative",
       "account": "rouanet",
-      "forecast_income": 201500.0,
+      "forecast_income": 251500.0,
       "forecast_expenses": 85976.0
     },
     {
@@ -33953,7 +33953,7 @@
       "month": 6,
       "scenario": "optimistic",
       "account": "rouanet",
-      "forecast_income": 1500.0,
+      "forecast_income": 251500.0,
       "forecast_expenses": 85976.0
     },
     {
@@ -34049,7 +34049,7 @@
       "month": 8,
       "scenario": "optimistic",
       "account": "rouanet",
-      "forecast_income": 201500.0,
+      "forecast_income": 1500.0,
       "forecast_expenses": 86311.0
     },
     {
@@ -34065,7 +34065,7 @@
       "month": 9,
       "scenario": "base",
       "account": "rouanet",
-      "forecast_income": 161500.0,
+      "forecast_income": 251500.0,
       "forecast_expenses": 92884.0
     },
     {
@@ -34081,7 +34081,7 @@
       "month": 9,
       "scenario": "conservative",
       "account": "rouanet",
-      "forecast_income": 151500.0,
+      "forecast_income": 251500.0,
       "forecast_expenses": 92884.0
     },
     {
@@ -34097,7 +34097,7 @@
       "month": 9,
       "scenario": "optimistic",
       "account": "rouanet",
-      "forecast_income": 1500.0,
+      "forecast_income": 251500.0,
       "forecast_expenses": 92884.0
     },
     {
@@ -34193,7 +34193,7 @@
       "month": 11,
       "scenario": "optimistic",
       "account": "rouanet",
-      "forecast_income": 201500.0,
+      "forecast_income": 1500.0,
       "forecast_expenses": 90476.0
     },
     {
@@ -34209,7 +34209,7 @@
       "month": 12,
       "scenario": "base",
       "account": "rouanet",
-      "forecast_income": 241500.0,
+      "forecast_income": 251500.0,
       "forecast_expenses": 97751.0
     },
     {
@@ -34241,7 +34241,7 @@
       "month": 12,
       "scenario": "optimistic",
       "account": "rouanet",
-      "forecast_income": 201500.0,
+      "forecast_income": 251500.0,
       "forecast_expenses": 97751.0
     }
   ],
@@ -34285,28 +34285,28 @@
       "year": 2026,
       "month": 2,
       "scenario": "optimistic",
-      "forecast_income": 168758.1,
+      "forecast_income": 18758.1,
       "forecast_expenses": 119062.46
     },
     {
       "year": 2026,
       "month": 3,
       "scenario": "base",
-      "forecast_income": 151756.76,
+      "forecast_income": 281756.76,
       "forecast_expenses": 127157.46
     },
     {
       "year": 2026,
       "month": 3,
       "scenario": "conservative",
-      "forecast_income": 21205.42,
+      "forecast_income": 271205.42,
       "forecast_expenses": 127157.46
     },
     {
       "year": 2026,
       "month": 3,
       "scenario": "optimistic",
-      "forecast_income": 38258.1,
+      "forecast_income": 288258.1,
       "forecast_expenses": 127157.46
     },
     {
@@ -34348,28 +34348,28 @@
       "year": 2026,
       "month": 5,
       "scenario": "optimistic",
-      "forecast_income": 268758.1,
+      "forecast_income": 18758.1,
       "forecast_expenses": 123652.46
     },
     {
       "year": 2026,
       "month": 6,
       "scenario": "base",
-      "forecast_income": 311756.76,
+      "forecast_income": 281756.76,
       "forecast_expenses": 123215.46
     },
     {
       "year": 2026,
       "month": 6,
       "scenario": "conservative",
-      "forecast_income": 221205.42,
+      "forecast_income": 271205.42,
       "forecast_expenses": 123215.46
     },
     {
       "year": 2026,
       "month": 6,
       "scenario": "optimistic",
-      "forecast_income": 38258.1,
+      "forecast_income": 288258.1,
       "forecast_expenses": 123215.46
     },
     {
@@ -34411,28 +34411,28 @@
       "year": 2026,
       "month": 8,
       "scenario": "optimistic",
-      "forecast_income": 218758.1,
+      "forecast_income": 18758.1,
       "forecast_expenses": 123550.46
     },
     {
       "year": 2026,
       "month": 9,
       "scenario": "base",
-      "forecast_income": 186756.76,
+      "forecast_income": 276756.76,
       "forecast_expenses": 130123.46
     },
     {
       "year": 2026,
       "month": 9,
       "scenario": "conservative",
-      "forecast_income": 168705.42,
+      "forecast_income": 268705.42,
       "forecast_expenses": 130123.46
     },
     {
       "year": 2026,
       "month": 9,
       "scenario": "optimistic",
-      "forecast_income": 31758.1,
+      "forecast_income": 281758.1,
       "forecast_expenses": 130123.46
     },
     {
@@ -34474,14 +34474,14 @@
       "year": 2026,
       "month": 11,
       "scenario": "optimistic",
-      "forecast_income": 238258.1,
+      "forecast_income": 38258.1,
       "forecast_expenses": 127715.46
     },
     {
       "year": 2026,
       "month": 12,
       "scenario": "base",
-      "forecast_income": 262808.4,
+      "forecast_income": 272808.4,
       "forecast_expenses": 134990.46
     },
     {
@@ -34495,7 +34495,7 @@
       "year": 2026,
       "month": 12,
       "scenario": "optimistic",
-      "forecast_income": 226020.07,
+      "forecast_income": 276020.07,
       "forecast_expenses": 134990.46
     }
   ],
