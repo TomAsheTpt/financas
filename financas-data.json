@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-16T15:06:26.452708",
+  "generated_at": "2026-02-17T12:04:34.863929",
   "monthly_balances": [
     {
       "id": 1,
@@ -23921,16 +23921,6 @@
       "month": 1,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 1500.0,
       "scenario": "base",
       "account": "rouanet",
@@ -23941,30 +23931,10 @@
       "month": 1,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 1500.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Alimentação",
-      "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -24039,66 +24009,6 @@
     {
       "year": 2026,
       "month": 1,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 1,
       "category": "Comunicação (10%)",
       "is_income": 0,
       "forecast_amount": 2888.0,
@@ -24125,36 +24035,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -24221,16 +24101,6 @@
       "month": 1,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 total annualised"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 28656.0,
       "scenario": "base",
       "account": "rouanet",
@@ -24241,30 +24111,10 @@
       "month": 1,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 28656.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Equipe Técnica",
-      "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -24309,36 +24159,6 @@
     {
       "year": 2026,
       "month": 1,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 1,
       "category": "Instrumentos/equipamentos/manutenção",
       "is_income": 0,
       "forecast_amount": 1933.75,
@@ -24365,36 +24185,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -24461,16 +24251,6 @@
       "month": 1,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 4786.0,
       "scenario": "base",
       "account": "rouanet",
@@ -24481,30 +24261,10 @@
       "month": 1,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 4786.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Professores",
-      "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -24572,66 +24332,6 @@
       "category": "Sem Categoria",
       "is_income": 0,
       "forecast_amount": 1602.91,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 1,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
       "scenario": "optimistic",
       "account": "associacao",
       "notes": "Optimistic: expenses same as base"
@@ -24701,16 +24401,6 @@
       "month": 2,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 7320.0,
       "scenario": "base",
       "account": "rouanet",
@@ -24721,30 +24411,10 @@
       "month": 2,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 7320.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Alimentação",
-      "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -24819,66 +24489,6 @@
     {
       "year": 2026,
       "month": 2,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 2,
       "category": "Comunicação (10%)",
       "is_income": 0,
       "forecast_amount": 4450.0,
@@ -24905,36 +24515,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -25001,16 +24581,6 @@
       "month": 2,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 total annualised"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "base",
       "account": "rouanet",
@@ -25021,30 +24591,10 @@
       "month": 2,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Equipe Técnica",
-      "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -25089,36 +24639,6 @@
     {
       "year": 2026,
       "month": 2,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 2,
       "category": "Instrumentos/equipamentos/manutenção",
       "is_income": 0,
       "forecast_amount": 2000.0,
@@ -25145,36 +24665,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -25211,16 +24701,6 @@
       "month": 2,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 22537.0,
       "scenario": "base",
       "account": "rouanet",
@@ -25231,30 +24711,10 @@
       "month": 2,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 22537.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Professores",
-      "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -25331,30 +24791,10 @@
       "month": 2,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "base",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
     },
     {
       "year": 2026,
@@ -25371,50 +24811,10 @@
       "month": 2,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 2,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -25481,16 +24881,6 @@
       "month": 3,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 5930.0,
       "scenario": "base",
       "account": "rouanet",
@@ -25501,30 +24891,10 @@
       "month": 3,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 5930.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Alimentação",
-      "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -25599,66 +24969,6 @@
     {
       "year": 2026,
       "month": 3,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 3,
       "category": "Comunicação (10%)",
       "is_income": 0,
       "forecast_amount": 13537.0,
@@ -25685,36 +24995,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -25781,16 +25061,6 @@
       "month": 3,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 total annualised"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "base",
       "account": "rouanet",
@@ -25801,30 +25071,10 @@
       "month": 3,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Equipe Técnica",
-      "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -25869,36 +25119,6 @@
     {
       "year": 2026,
       "month": 3,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 3,
       "category": "Instrumentos/equipamentos/manutenção",
       "is_income": 0,
       "forecast_amount": 2000.0,
@@ -25925,36 +25145,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -26051,16 +25241,6 @@
       "month": 3,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 23335.0,
       "scenario": "base",
       "account": "rouanet",
@@ -26071,30 +25251,10 @@
       "month": 3,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 23335.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Professores",
-      "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -26162,66 +25322,6 @@
       "category": "Sem Categoria",
       "is_income": 0,
       "forecast_amount": 1602.91,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 3,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
       "scenario": "optimistic",
       "account": "associacao",
       "notes": "Optimistic: expenses same as base"
@@ -26291,16 +25391,6 @@
       "month": 4,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 12450.0,
       "scenario": "base",
       "account": "rouanet",
@@ -26311,30 +25401,10 @@
       "month": 4,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 12450.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Alimentação",
-      "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -26409,66 +25479,6 @@
     {
       "year": 2026,
       "month": 4,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 4,
       "category": "Comunicação (10%)",
       "is_income": 0,
       "forecast_amount": 16285.0,
@@ -26495,36 +25505,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -26591,16 +25571,6 @@
       "month": 4,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 total annualised"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "base",
       "account": "rouanet",
@@ -26611,30 +25581,10 @@
       "month": 4,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Equipe Técnica",
-      "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -26679,36 +25629,6 @@
     {
       "year": 2026,
       "month": 4,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 4,
       "category": "Instrumentos/equipamentos/manutenção",
       "is_income": 0,
       "forecast_amount": 2000.0,
@@ -26735,36 +25655,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -26831,16 +25721,6 @@
       "month": 4,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 24193.0,
       "scenario": "base",
       "account": "rouanet",
@@ -26851,30 +25731,10 @@
       "month": 4,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 24193.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Professores",
-      "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -26951,30 +25811,10 @@
       "month": 4,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 2000.0,
       "scenario": "base",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
     },
     {
       "year": 2026,
@@ -26991,30 +25831,10 @@
       "month": 4,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 2000.0,
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
     },
     {
       "year": 2026,
@@ -27031,30 +25851,10 @@
       "month": 4,
       "category": "Uniformes",
       "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Uniformes",
-      "is_income": 0,
       "forecast_amount": 3500.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 4,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -27131,16 +25931,6 @@
       "month": 5,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 7310.0,
       "scenario": "base",
       "account": "rouanet",
@@ -27151,30 +25941,10 @@
       "month": 5,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 7310.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Alimentação",
-      "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -27249,66 +26019,6 @@
     {
       "year": 2026,
       "month": 5,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 5,
       "category": "Comunicação (10%)",
       "is_income": 0,
       "forecast_amount": 7575.0,
@@ -27335,36 +26045,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -27431,16 +26111,6 @@
       "month": 5,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 total annualised"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "base",
       "account": "rouanet",
@@ -27451,30 +26121,10 @@
       "month": 5,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Equipe Técnica",
-      "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -27519,36 +26169,6 @@
     {
       "year": 2026,
       "month": 5,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 5,
       "category": "Instrumentos/equipamentos/manutenção",
       "is_income": 0,
       "forecast_amount": 2000.0,
@@ -27575,36 +26195,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -27641,16 +26231,6 @@
       "month": 5,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 24012.0,
       "scenario": "base",
       "account": "rouanet",
@@ -27661,30 +26241,10 @@
       "month": 5,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 24012.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Professores",
-      "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -27761,30 +26321,10 @@
       "month": 5,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "base",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
     },
     {
       "year": 2026,
@@ -27801,50 +26341,10 @@
       "month": 5,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 5,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -27911,16 +26411,6 @@
       "month": 6,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 7450.0,
       "scenario": "base",
       "account": "rouanet",
@@ -27931,30 +26421,10 @@
       "month": 6,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 7450.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Alimentação",
-      "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -28029,66 +26499,6 @@
     {
       "year": 2026,
       "month": 6,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 6,
       "category": "Comunicação (10%)",
       "is_income": 0,
       "forecast_amount": 7575.0,
@@ -28115,36 +26525,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -28211,16 +26591,6 @@
       "month": 6,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 total annualised"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "base",
       "account": "rouanet",
@@ -28231,30 +26601,10 @@
       "month": 6,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Equipe Técnica",
-      "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -28299,36 +26649,6 @@
     {
       "year": 2026,
       "month": 6,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 6,
       "category": "Instrumentos/equipamentos/manutenção",
       "is_income": 0,
       "forecast_amount": 2000.0,
@@ -28355,36 +26675,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -28481,16 +26771,6 @@
       "month": 6,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 23335.0,
       "scenario": "base",
       "account": "rouanet",
@@ -28501,30 +26781,10 @@
       "month": 6,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 23335.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Professores",
-      "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -28601,30 +26861,10 @@
       "month": 6,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "base",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
     },
     {
       "year": 2026,
@@ -28641,50 +26881,10 @@
       "month": 6,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 6,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -28751,16 +26951,6 @@
       "month": 7,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 7450.0,
       "scenario": "base",
       "account": "rouanet",
@@ -28771,30 +26961,10 @@
       "month": 7,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 7450.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Alimentação",
-      "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -28869,66 +27039,6 @@
     {
       "year": 2026,
       "month": 7,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 7,
       "category": "Comunicação (10%)",
       "is_income": 0,
       "forecast_amount": 10165.0,
@@ -28955,36 +27065,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -29051,16 +27131,6 @@
       "month": 7,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 total annualised"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "base",
       "account": "rouanet",
@@ -29071,30 +27141,10 @@
       "month": 7,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Equipe Técnica",
-      "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -29139,36 +27189,6 @@
     {
       "year": 2026,
       "month": 7,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 7,
       "category": "Instrumentos/equipamentos/manutenção",
       "is_income": 0,
       "forecast_amount": 2000.0,
@@ -29195,36 +27215,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -29351,16 +27341,6 @@
       "month": 7,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 18385.0,
       "scenario": "base",
       "account": "rouanet",
@@ -29371,30 +27351,10 @@
       "month": 7,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 18385.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Professores",
-      "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -29471,30 +27431,10 @@
       "month": 7,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "base",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
     },
     {
       "year": 2026,
@@ -29511,50 +27451,10 @@
       "month": 7,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 7,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -29621,16 +27521,6 @@
       "month": 8,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 7160.0,
       "scenario": "base",
       "account": "rouanet",
@@ -29641,30 +27531,10 @@
       "month": 8,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 7160.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Alimentação",
-      "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -29739,66 +27609,6 @@
     {
       "year": 2026,
       "month": 8,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 8,
       "category": "Comunicação (10%)",
       "is_income": 0,
       "forecast_amount": 7575.0,
@@ -29825,36 +27635,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -29921,16 +27701,6 @@
       "month": 8,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 total annualised"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "base",
       "account": "rouanet",
@@ -29941,30 +27711,10 @@
       "month": 8,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Equipe Técnica",
-      "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -30009,36 +27759,6 @@
     {
       "year": 2026,
       "month": 8,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 8,
       "category": "Instrumentos/equipamentos/manutenção",
       "is_income": 0,
       "forecast_amount": 2000.0,
@@ -30065,36 +27785,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -30131,16 +27821,6 @@
       "month": 8,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 24010.0,
       "scenario": "base",
       "account": "rouanet",
@@ -30151,30 +27831,10 @@
       "month": 8,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 24010.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Professores",
-      "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -30251,30 +27911,10 @@
       "month": 8,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "base",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
     },
     {
       "year": 2026,
@@ -30291,50 +27931,10 @@
       "month": 8,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 8,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -30401,16 +28001,6 @@
       "month": 9,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 7330.0,
       "scenario": "base",
       "account": "rouanet",
@@ -30421,30 +28011,10 @@
       "month": 9,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 7330.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Alimentação",
-      "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -30519,66 +28089,6 @@
     {
       "year": 2026,
       "month": 9,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 9,
       "category": "Comunicação (10%)",
       "is_income": 0,
       "forecast_amount": 7785.0,
@@ -30605,36 +28115,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -30701,16 +28181,6 @@
       "month": 9,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 total annualised"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "base",
       "account": "rouanet",
@@ -30721,30 +28191,10 @@
       "month": 9,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Equipe Técnica",
-      "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -30789,36 +28239,6 @@
     {
       "year": 2026,
       "month": 9,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 9,
       "category": "Instrumentos/equipamentos/manutenção",
       "is_income": 0,
       "forecast_amount": 2000.0,
@@ -30845,36 +28265,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -30971,16 +28361,6 @@
       "month": 9,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 24153.0,
       "scenario": "base",
       "account": "rouanet",
@@ -30991,30 +28371,10 @@
       "month": 9,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 24153.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Professores",
-      "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -31091,30 +28451,10 @@
       "month": 9,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "base",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
     },
     {
       "year": 2026,
@@ -31131,30 +28471,10 @@
       "month": 9,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
     },
     {
       "year": 2026,
@@ -31171,30 +28491,10 @@
       "month": 9,
       "category": "Uniformes",
       "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Uniformes",
-      "is_income": 0,
       "forecast_amount": 6000.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 9,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -31271,16 +28571,6 @@
       "month": 10,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 8980.0,
       "scenario": "base",
       "account": "rouanet",
@@ -31291,30 +28581,10 @@
       "month": 10,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 8980.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Alimentação",
-      "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -31389,66 +28659,6 @@
     {
       "year": 2026,
       "month": 10,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 10,
       "category": "Comunicação (10%)",
       "is_income": 0,
       "forecast_amount": 7775.0,
@@ -31475,36 +28685,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -31571,16 +28751,6 @@
       "month": 10,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 total annualised"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "base",
       "account": "rouanet",
@@ -31591,30 +28761,10 @@
       "month": 10,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Equipe Técnica",
-      "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -31659,36 +28809,6 @@
     {
       "year": 2026,
       "month": 10,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 10,
       "category": "Instrumentos/equipamentos/manutenção",
       "is_income": 0,
       "forecast_amount": 2000.0,
@@ -31715,36 +28835,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -31811,16 +28901,6 @@
       "month": 10,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 24952.0,
       "scenario": "base",
       "account": "rouanet",
@@ -31831,30 +28911,10 @@
       "month": 10,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 24952.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Professores",
-      "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -31931,30 +28991,10 @@
       "month": 10,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "base",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
     },
     {
       "year": 2026,
@@ -31971,50 +29011,10 @@
       "month": 10,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 500.0,
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 10,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -32081,16 +29081,6 @@
       "month": 11,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 9900.0,
       "scenario": "base",
       "account": "rouanet",
@@ -32101,30 +29091,10 @@
       "month": 11,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 9900.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Alimentação",
-      "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -32199,66 +29169,6 @@
     {
       "year": 2026,
       "month": 11,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 11,
       "category": "Comunicação (10%)",
       "is_income": 0,
       "forecast_amount": 7575.0,
@@ -32285,36 +29195,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -32381,16 +29261,6 @@
       "month": 11,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 total annualised"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "base",
       "account": "rouanet",
@@ -32401,30 +29271,10 @@
       "month": 11,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Equipe Técnica",
-      "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -32469,36 +29319,6 @@
     {
       "year": 2026,
       "month": 11,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 11,
       "category": "Instrumentos/equipamentos/manutenção",
       "is_income": 0,
       "forecast_amount": 2000.0,
@@ -32525,36 +29345,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -32621,16 +29411,6 @@
       "month": 11,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 22935.0,
       "scenario": "base",
       "account": "rouanet",
@@ -32641,30 +29421,10 @@
       "month": 11,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 22935.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Professores",
-      "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -32741,30 +29501,10 @@
       "month": 11,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 3000.0,
       "scenario": "base",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
     },
     {
       "year": 2026,
@@ -32781,50 +29521,10 @@
       "month": 11,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 3000.0,
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 11,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -32891,16 +29591,6 @@
       "month": 12,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 11710.0,
       "scenario": "base",
       "account": "rouanet",
@@ -32911,30 +29601,10 @@
       "month": 12,
       "category": "Alimentação",
       "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Alimentação",
-      "is_income": 0,
       "forecast_amount": 11710.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Alimentação",
-      "is_income": 0,
-      "forecast_amount": 2265.53,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -33009,66 +29679,6 @@
     {
       "year": 2026,
       "month": 12,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Assinatura de App",
-      "is_income": 0,
-      "forecast_amount": 1437.35,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Comunicação",
-      "is_income": 0,
-      "forecast_amount": 2500.98,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 12,
       "category": "Comunicação (10%)",
       "is_income": 0,
       "forecast_amount": 9265.0,
@@ -33095,36 +29705,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Custos Administrativos",
-      "is_income": 0,
-      "forecast_amount": 1561.37,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -33191,16 +29771,6 @@
       "month": 12,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 total annualised"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "base",
       "account": "rouanet",
@@ -33211,30 +29781,10 @@
       "month": 12,
       "category": "Equipe Técnica",
       "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Equipe Técnica",
-      "is_income": 0,
       "forecast_amount": 31806.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Equipe Técnica",
-      "is_income": 0,
-      "forecast_amount": 8516.1,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -33279,36 +29829,6 @@
     {
       "year": 2026,
       "month": 12,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Instrumentos/Equipamento",
-      "is_income": 0,
-      "forecast_amount": 2797.45,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 12,
       "category": "Instrumentos/equipamentos/manutenção",
       "is_income": 0,
       "forecast_amount": 2000.0,
@@ -33335,36 +29855,6 @@
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Materiais de Consumo",
-      "is_income": 0,
-      "forecast_amount": 1012.9,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -33431,16 +29921,6 @@
       "month": 12,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 17710.0,
       "scenario": "base",
       "account": "rouanet",
@@ -33451,30 +29931,10 @@
       "month": 12,
       "category": "Professores",
       "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Professores",
-      "is_income": 0,
       "forecast_amount": 17710.0,
       "scenario": "conservative",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Professores",
-      "is_income": 0,
-      "forecast_amount": 8342.74,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -33551,30 +30011,10 @@
       "month": 12,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 10000.0,
       "scenario": "base",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Transporte",
-      "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
     },
     {
       "year": 2026,
@@ -33591,50 +30031,10 @@
       "month": 12,
       "category": "Transporte",
       "is_income": 0,
-      "forecast_amount": 4522.07,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Transporte",
-      "is_income": 0,
       "forecast_amount": 10000.0,
       "scenario": "optimistic",
       "account": "rouanet",
       "notes": "Rouanet planned execution"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "base",
-      "account": "associacao",
-      "notes": "2025 average"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "conservative",
-      "account": "associacao",
-      "notes": "Conservative: expenses unchanged"
-    },
-    {
-      "year": 2026,
-      "month": 12,
-      "category": "Uniformes",
-      "is_income": 0,
-      "forecast_amount": 2430.06,
-      "scenario": "optimistic",
-      "account": "associacao",
-      "notes": "Optimistic: expenses same as base"
     },
     {
       "year": 2026,
@@ -33674,7 +30074,7 @@
       "scenario": "base",
       "account": "associacao",
       "forecast_income": 15256.76,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33690,7 +30090,7 @@
       "scenario": "conservative",
       "account": "associacao",
       "forecast_income": 12205.42,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33706,7 +30106,7 @@
       "scenario": "optimistic",
       "account": "associacao",
       "forecast_income": 17258.1,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33722,7 +30122,7 @@
       "scenario": "base",
       "account": "associacao",
       "forecast_income": 15256.76,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33738,7 +30138,7 @@
       "scenario": "conservative",
       "account": "associacao",
       "forecast_income": 12205.42,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33754,7 +30154,7 @@
       "scenario": "optimistic",
       "account": "associacao",
       "forecast_income": 17258.1,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33770,7 +30170,7 @@
       "scenario": "base",
       "account": "associacao",
       "forecast_income": 30256.760000000002,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33786,7 +30186,7 @@
       "scenario": "conservative",
       "account": "associacao",
       "forecast_income": 19705.42,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33802,7 +30202,7 @@
       "scenario": "optimistic",
       "account": "associacao",
       "forecast_income": 36758.1,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33818,7 +30218,7 @@
       "scenario": "base",
       "account": "associacao",
       "forecast_income": 15256.76,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33834,7 +30234,7 @@
       "scenario": "conservative",
       "account": "associacao",
       "forecast_income": 12205.42,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33850,7 +30250,7 @@
       "scenario": "optimistic",
       "account": "associacao",
       "forecast_income": 17258.1,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33866,7 +30266,7 @@
       "scenario": "base",
       "account": "associacao",
       "forecast_income": 15256.76,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33882,7 +30282,7 @@
       "scenario": "conservative",
       "account": "associacao",
       "forecast_income": 12205.42,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33898,7 +30298,7 @@
       "scenario": "optimistic",
       "account": "associacao",
       "forecast_income": 17258.1,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33914,7 +30314,7 @@
       "scenario": "base",
       "account": "associacao",
       "forecast_income": 30256.760000000002,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33930,7 +30330,7 @@
       "scenario": "conservative",
       "account": "associacao",
       "forecast_income": 19705.42,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33946,7 +30346,7 @@
       "scenario": "optimistic",
       "account": "associacao",
       "forecast_income": 36758.1,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33962,7 +30362,7 @@
       "scenario": "base",
       "account": "associacao",
       "forecast_income": 65256.76,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33978,7 +30378,7 @@
       "scenario": "conservative",
       "account": "associacao",
       "forecast_income": 37205.42,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -33994,7 +30394,7 @@
       "scenario": "optimistic",
       "account": "associacao",
       "forecast_income": 73258.1,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34010,7 +30410,7 @@
       "scenario": "base",
       "account": "associacao",
       "forecast_income": 15256.76,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34026,7 +30426,7 @@
       "scenario": "conservative",
       "account": "associacao",
       "forecast_income": 12205.42,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34042,7 +30442,7 @@
       "scenario": "optimistic",
       "account": "associacao",
       "forecast_income": 17258.1,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34058,7 +30458,7 @@
       "scenario": "base",
       "account": "associacao",
       "forecast_income": 25256.760000000002,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34074,7 +30474,7 @@
       "scenario": "conservative",
       "account": "associacao",
       "forecast_income": 17205.42,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34090,7 +30490,7 @@
       "scenario": "optimistic",
       "account": "associacao",
       "forecast_income": 30258.1,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34106,7 +30506,7 @@
       "scenario": "base",
       "account": "associacao",
       "forecast_income": 15256.76,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34122,7 +30522,7 @@
       "scenario": "conservative",
       "account": "associacao",
       "forecast_income": 12205.42,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34138,7 +30538,7 @@
       "scenario": "optimistic",
       "account": "associacao",
       "forecast_income": 17258.1,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34154,7 +30554,7 @@
       "scenario": "base",
       "account": "associacao",
       "forecast_income": 30256.760000000002,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34170,7 +30570,7 @@
       "scenario": "conservative",
       "account": "associacao",
       "forecast_income": 19705.42,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34186,7 +30586,7 @@
       "scenario": "optimistic",
       "account": "associacao",
       "forecast_income": 36758.1,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34202,7 +30602,7 @@
       "scenario": "base",
       "account": "associacao",
       "forecast_income": 21308.399999999998,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34218,7 +30618,7 @@
       "scenario": "conservative",
       "account": "associacao",
       "forecast_income": 17046.73,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34234,7 +30634,7 @@
       "scenario": "optimistic",
       "account": "associacao",
       "forecast_income": 24520.07,
-      "forecast_expenses": 37239.46
+      "forecast_expenses": 1852.91
     },
     {
       "year": 2026,
@@ -34251,252 +30651,252 @@
       "month": 1,
       "scenario": "base",
       "forecast_income": 16756.760000000002,
-      "forecast_expenses": 91749.49
+      "forecast_expenses": 56362.94
     },
     {
       "year": 2026,
       "month": 1,
       "scenario": "conservative",
       "forecast_income": 13705.42,
-      "forecast_expenses": 91749.49
+      "forecast_expenses": 56362.94
     },
     {
       "year": 2026,
       "month": 1,
       "scenario": "optimistic",
       "forecast_income": 18758.1,
-      "forecast_expenses": 91749.49
+      "forecast_expenses": 56362.94
     },
     {
       "year": 2026,
       "month": 2,
       "scenario": "base",
       "forecast_income": 16756.760000000002,
-      "forecast_expenses": 119062.46
+      "forecast_expenses": 83675.91
     },
     {
       "year": 2026,
       "month": 2,
       "scenario": "conservative",
       "forecast_income": 13705.42,
-      "forecast_expenses": 119062.46
+      "forecast_expenses": 83675.91
     },
     {
       "year": 2026,
       "month": 2,
       "scenario": "optimistic",
       "forecast_income": 18758.1,
-      "forecast_expenses": 119062.46
+      "forecast_expenses": 83675.91
     },
     {
       "year": 2026,
       "month": 3,
       "scenario": "base",
       "forecast_income": 281756.76,
-      "forecast_expenses": 127157.46
+      "forecast_expenses": 91770.91
     },
     {
       "year": 2026,
       "month": 3,
       "scenario": "conservative",
       "forecast_income": 271205.42,
-      "forecast_expenses": 127157.46
+      "forecast_expenses": 91770.91
     },
     {
       "year": 2026,
       "month": 3,
       "scenario": "optimistic",
       "forecast_income": 288258.1,
-      "forecast_expenses": 127157.46
+      "forecast_expenses": 91770.91
     },
     {
       "year": 2026,
       "month": 4,
       "scenario": "base",
       "forecast_income": 16756.760000000002,
-      "forecast_expenses": 145983.46
+      "forecast_expenses": 110596.91
     },
     {
       "year": 2026,
       "month": 4,
       "scenario": "conservative",
       "forecast_income": 13705.42,
-      "forecast_expenses": 145983.46
+      "forecast_expenses": 110596.91
     },
     {
       "year": 2026,
       "month": 4,
       "scenario": "optimistic",
       "forecast_income": 18758.1,
-      "forecast_expenses": 145983.46
+      "forecast_expenses": 110596.91
     },
     {
       "year": 2026,
       "month": 5,
       "scenario": "base",
       "forecast_income": 16756.760000000002,
-      "forecast_expenses": 123652.46
+      "forecast_expenses": 88265.91
     },
     {
       "year": 2026,
       "month": 5,
       "scenario": "conservative",
       "forecast_income": 13705.42,
-      "forecast_expenses": 123652.46
+      "forecast_expenses": 88265.91
     },
     {
       "year": 2026,
       "month": 5,
       "scenario": "optimistic",
       "forecast_income": 18758.1,
-      "forecast_expenses": 123652.46
+      "forecast_expenses": 88265.91
     },
     {
       "year": 2026,
       "month": 6,
       "scenario": "base",
       "forecast_income": 281756.76,
-      "forecast_expenses": 123215.46
+      "forecast_expenses": 87828.91
     },
     {
       "year": 2026,
       "month": 6,
       "scenario": "conservative",
       "forecast_income": 271205.42,
-      "forecast_expenses": 123215.46
+      "forecast_expenses": 87828.91
     },
     {
       "year": 2026,
       "month": 6,
       "scenario": "optimistic",
       "forecast_income": 288258.1,
-      "forecast_expenses": 123215.46
+      "forecast_expenses": 87828.91
     },
     {
       "year": 2026,
       "month": 7,
       "scenario": "base",
       "forecast_income": 66756.76,
-      "forecast_expenses": 123905.46
+      "forecast_expenses": 88518.91
     },
     {
       "year": 2026,
       "month": 7,
       "scenario": "conservative",
       "forecast_income": 38705.42,
-      "forecast_expenses": 123905.46
+      "forecast_expenses": 88518.91
     },
     {
       "year": 2026,
       "month": 7,
       "scenario": "optimistic",
       "forecast_income": 74758.1,
-      "forecast_expenses": 123905.46
+      "forecast_expenses": 88518.91
     },
     {
       "year": 2026,
       "month": 8,
       "scenario": "base",
       "forecast_income": 16756.760000000002,
-      "forecast_expenses": 123550.46
+      "forecast_expenses": 88163.91
     },
     {
       "year": 2026,
       "month": 8,
       "scenario": "conservative",
       "forecast_income": 13705.42,
-      "forecast_expenses": 123550.46
+      "forecast_expenses": 88163.91
     },
     {
       "year": 2026,
       "month": 8,
       "scenario": "optimistic",
       "forecast_income": 18758.1,
-      "forecast_expenses": 123550.46
+      "forecast_expenses": 88163.91
     },
     {
       "year": 2026,
       "month": 9,
       "scenario": "base",
       "forecast_income": 276756.76,
-      "forecast_expenses": 130123.46
+      "forecast_expenses": 94736.91
     },
     {
       "year": 2026,
       "month": 9,
       "scenario": "conservative",
       "forecast_income": 268705.42,
-      "forecast_expenses": 130123.46
+      "forecast_expenses": 94736.91
     },
     {
       "year": 2026,
       "month": 9,
       "scenario": "optimistic",
       "forecast_income": 281758.1,
-      "forecast_expenses": 130123.46
+      "forecast_expenses": 94736.91
     },
     {
       "year": 2026,
       "month": 10,
       "scenario": "base",
       "forecast_income": 16756.760000000002,
-      "forecast_expenses": 128212.46
+      "forecast_expenses": 92825.91
     },
     {
       "year": 2026,
       "month": 10,
       "scenario": "conservative",
       "forecast_income": 13705.42,
-      "forecast_expenses": 128212.46
+      "forecast_expenses": 92825.91
     },
     {
       "year": 2026,
       "month": 10,
       "scenario": "optimistic",
       "forecast_income": 18758.1,
-      "forecast_expenses": 128212.46
+      "forecast_expenses": 92825.91
     },
     {
       "year": 2026,
       "month": 11,
       "scenario": "base",
       "forecast_income": 31756.760000000002,
-      "forecast_expenses": 127715.46
+      "forecast_expenses": 92328.91
     },
     {
       "year": 2026,
       "month": 11,
       "scenario": "conservative",
       "forecast_income": 21205.42,
-      "forecast_expenses": 127715.46
+      "forecast_expenses": 92328.91
     },
     {
       "year": 2026,
       "month": 11,
       "scenario": "optimistic",
       "forecast_income": 38258.1,
-      "forecast_expenses": 127715.46
+      "forecast_expenses": 92328.91
     },
     {
       "year": 2026,
       "month": 12,
       "scenario": "base",
       "forecast_income": 272808.4,
-      "forecast_expenses": 134990.46
+      "forecast_expenses": 99603.91
     },
     {
       "year": 2026,
       "month": 12,
       "scenario": "conservative",
       "forecast_income": 268546.73,
-      "forecast_expenses": 134990.46
+      "forecast_expenses": 99603.91
     },
     {
       "year": 2026,
       "month": 12,
       "scenario": "optimistic",
       "forecast_income": 276020.07,
-      "forecast_expenses": 134990.46
+      "forecast_expenses": 99603.91
     }
   ],
   "category_mapping": [
